@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/vercel.svg"
+              src="https://awshelloworldbucket2.s3.amazonaws.com/dogs.jpg"
               alt="Vercel Logo"
               className="dark:invert"
               width={100}
